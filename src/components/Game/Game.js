@@ -1,9 +1,10 @@
 import React from 'react';
+import Board from '../Board/Board';
 
 function Game(){
     return (
-        <div>
-            
+        <div className='wrap'>
+            <Board/>
         </div>
     );
 }

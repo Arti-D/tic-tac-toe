@@ -2,9 +2,7 @@ import React from 'react';
 
 function Square() {
     return (
-        <div>
-            
-        </div>
+        <button className='square'>x</button>
     );
 }
 
